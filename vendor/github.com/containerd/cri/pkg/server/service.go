@@ -29,7 +29,7 @@ import (
 	runcseccomp "github.com/opencontainers/runc/libcontainer/seccomp"
 	"github.com/opencontainers/selinux/go-selinux"
 	"github.com/pkg/errors"
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 	"google.golang.org/grpc"
 	runtime "k8s.io/kubernetes/pkg/kubelet/apis/cri/runtime/v1alpha2"
 	"k8s.io/kubernetes/pkg/kubelet/server/streaming"

@@ -21,7 +21,7 @@ import (
 	"path/filepath"
 
 	"github.com/pkg/errors"
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 	"golang.org/x/net/context"
 
 	api "github.com/containerd/cri/pkg/api/v1"

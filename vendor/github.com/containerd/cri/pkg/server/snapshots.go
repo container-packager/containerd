@@ -23,7 +23,7 @@ import (
 	"github.com/containerd/containerd/errdefs"
 	snapshot "github.com/containerd/containerd/snapshots"
 	"github.com/pkg/errors"
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 
 	ctrdutil "github.com/containerd/cri/pkg/containerd/util"
 	snapshotstore "github.com/containerd/cri/pkg/store/snapshot"

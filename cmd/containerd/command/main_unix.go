@@ -25,7 +25,7 @@ import (
 
 	"github.com/containerd/containerd/log"
 	"github.com/containerd/containerd/server"
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 	"golang.org/x/sys/unix"
 )
 

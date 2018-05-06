@@ -32,7 +32,7 @@ import (
 	"golang.org/x/sys/unix"
 
 	"github.com/pkg/errors"
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 	"github.com/stevvooe/ttrpc"
 
 	"github.com/containerd/containerd/events"

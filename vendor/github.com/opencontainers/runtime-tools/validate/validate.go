@@ -20,7 +20,7 @@ import (
 	"github.com/blang/semver"
 	"github.com/hashicorp/go-multierror"
 	rspec "github.com/opencontainers/runtime-spec/specs-go"
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 	"github.com/syndtr/gocapability/capability"
 
 	"github.com/opencontainers/runtime-tools/specerror"

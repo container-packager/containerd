@@ -27,7 +27,7 @@ import (
 	"github.com/containerd/typeurl"
 	gogotypes "github.com/gogo/protobuf/types"
 	"github.com/pkg/errors"
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 	"golang.org/x/net/context"
 	"k8s.io/apimachinery/pkg/util/clock"
 

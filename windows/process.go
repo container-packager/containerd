@@ -31,7 +31,7 @@ import (
 	"github.com/containerd/containerd/log"
 	"github.com/containerd/containerd/runtime"
 	"github.com/pkg/errors"
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 )
 
 // process implements containerd.Process and containerd.State

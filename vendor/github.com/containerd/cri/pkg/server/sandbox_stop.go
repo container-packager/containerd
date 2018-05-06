@@ -24,7 +24,7 @@ import (
 	"github.com/containerd/containerd/errdefs"
 	cni "github.com/containerd/go-cni"
 	"github.com/pkg/errors"
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 	"golang.org/x/net/context"
 	"golang.org/x/sys/unix"
 	runtime "k8s.io/kubernetes/pkg/kubelet/apis/cri/runtime/v1alpha2"

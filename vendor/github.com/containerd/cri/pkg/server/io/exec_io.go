@@ -21,7 +21,7 @@ import (
 	"sync"
 
 	"github.com/containerd/containerd/cio"
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 
 	cioutil "github.com/containerd/cri/pkg/ioutil"
 )

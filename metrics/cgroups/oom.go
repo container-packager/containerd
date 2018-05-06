@@ -27,7 +27,7 @@ import (
 	"github.com/containerd/cgroups"
 	metrics "github.com/docker/go-metrics"
 	"github.com/prometheus/client_golang/prometheus"
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 )
 
 func newOOMCollector(ns *metrics.Namespace) (*oomCollector, error) {

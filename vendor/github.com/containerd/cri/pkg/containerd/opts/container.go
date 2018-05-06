@@ -28,7 +28,7 @@ import (
 	"github.com/containerd/containerd/mount"
 	"github.com/containerd/continuity/fs"
 	"github.com/pkg/errors"
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 )
 
 // WithNewSnapshot wraps `containerd.WithNewSnapshot` so that if creating the

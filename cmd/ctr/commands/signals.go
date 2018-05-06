@@ -26,7 +26,7 @@ import (
 	"syscall"
 
 	"github.com/containerd/containerd"
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 )
 
 type killer interface {

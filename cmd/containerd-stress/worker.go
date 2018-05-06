@@ -28,7 +28,7 @@ import (
 	"github.com/containerd/containerd/cio"
 	"github.com/containerd/containerd/oci"
 	specs "github.com/opencontainers/runtime-spec/specs-go"
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 )
 
 type worker struct {

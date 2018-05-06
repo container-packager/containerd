@@ -32,7 +32,7 @@ import (
 	ptypes "github.com/gogo/protobuf/types"
 	"github.com/opencontainers/runtime-spec/specs-go"
 	"github.com/pkg/errors"
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 	"github.com/stevvooe/ttrpc"
 	"github.com/urfave/cli"
 )

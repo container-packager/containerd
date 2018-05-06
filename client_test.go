@@ -36,7 +36,7 @@ import (
 	"github.com/containerd/containerd/platforms"
 	"github.com/containerd/containerd/sys"
 	"github.com/containerd/containerd/testutil"
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 )
 
 var (

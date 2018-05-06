@@ -39,7 +39,7 @@ import (
 	"github.com/opencontainers/runtime-tools/validate"
 	"github.com/opencontainers/selinux/go-selinux/label"
 	"github.com/pkg/errors"
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 	"github.com/syndtr/gocapability/capability"
 	"golang.org/x/net/context"
 	"golang.org/x/sys/unix"

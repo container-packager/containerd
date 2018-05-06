@@ -25,7 +25,7 @@ import (
 	"strings"
 
 	"github.com/pkg/errors"
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 )
 
 // NewLoopback creates a loopback device, and returns its device name (/dev/loopX), and its clean-up function.

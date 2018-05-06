@@ -43,7 +43,7 @@ import (
 	"github.com/containerd/typeurl"
 	ptypes "github.com/gogo/protobuf/types"
 	"github.com/pkg/errors"
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 	"github.com/stevvooe/ttrpc"
 	"golang.org/x/sys/unix"
 )

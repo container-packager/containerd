@@ -33,7 +33,7 @@ import (
 	"github.com/containerd/containerd/sys"
 	"github.com/containerd/containerd/version"
 	"github.com/pkg/errors"
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 	"github.com/urfave/cli"
 	gocontext "golang.org/x/net/context"
 	"google.golang.org/grpc/grpclog"

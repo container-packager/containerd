@@ -23,7 +23,7 @@ import (
 	"text/tabwriter"
 	"text/template"
 
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 	"github.com/urfave/cli"
 )
 

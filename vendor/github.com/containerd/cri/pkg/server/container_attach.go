@@ -21,7 +21,7 @@ import (
 
 	"github.com/containerd/containerd"
 	"github.com/pkg/errors"
-	"github.com/sirupsen/logrus"
+	"github.com/Sirupsen/logrus"
 	"golang.org/x/net/context"
 	"k8s.io/client-go/tools/remotecommand"
 	runtime "k8s.io/kubernetes/pkg/kubelet/apis/cri/runtime/v1alpha2"
